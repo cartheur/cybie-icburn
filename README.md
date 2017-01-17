@@ -1,2 +1,3 @@
 # sede-test
-Test/experimental place for sede tool project
+An experimental place for those things required in the sede tool project
+17.01.17 - Create project.
