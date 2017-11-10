@@ -1,3 +1,3 @@
-# sede-test
-An experimental place for those things required in the sede tool project
-17.01.17 - Create project.
+# cybie-icburn
+Code for the Win32 executable, ICBURN
+11.11.17 - Create project.
