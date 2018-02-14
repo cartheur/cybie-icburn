@@ -1,7 +1,3 @@
-// SilverLit derived code for accessing Downloader on parallel port
-// part of code and protocol is Copyright(c) Silverlit Toys Manufactory Ltd.
-// Mostly re-written/reformatted/enhanced by ICybiePet
-
 #include "std.h"
 #include <time.h>
 #include "downloader.h"
