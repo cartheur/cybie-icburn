@@ -1,3 +1,4 @@
+// Main interface for the program.
 
 namespace DOWNLOADER
 {
