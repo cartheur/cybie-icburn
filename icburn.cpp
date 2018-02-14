@@ -1,8 +1,3 @@
-// ic_burn.cpp : Defines the entry point for the console application.
-// not open source since SilverLit has not publicly published interface
-// modified 10-2017 by cartheur
-// printf("\tDownloader with cartridge must be attached to parallel port\n");
-
 #include "std.h"
 #include "downloader.h"
 #include <iostream>
