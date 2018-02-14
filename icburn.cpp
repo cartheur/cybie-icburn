@@ -32,8 +32,9 @@ void WriteLog(char* message)
 	logFile.open(LOGFILE);
 	logFile << message;
 	logFile.close();
-	// Overwrites. Will need to work on it.
+	// Overwrites existing logfile. A better way is...
 	//freopen(LOGFILE, "w", message);
+	// although not finished.
 }
 
 bool ReInstall()
