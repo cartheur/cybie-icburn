@@ -178,7 +178,7 @@ bool DOWNLOADER::EraseChip()
 	Do_latchBL;
 	_outp(0x378, 0x10);
 	if (!Strobe())
-		return false;
+		return false; 
 
 	return true;
 }
