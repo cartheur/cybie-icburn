@@ -1,6 +1,3 @@
-// interface to SilverLit derived code
-
-
 
 namespace DOWNLOADER
 {
