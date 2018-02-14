@@ -32,7 +32,7 @@ void WriteLog(char* message)
 	logFile.open(LOGFILE);
 	logFile << message;
 	logFile.close();
-	// Overwrites. Will need to work on it, as...
+	// Overwrites. Will need to work on it.
 	//freopen(LOGFILE, "w", message);
 }
 
